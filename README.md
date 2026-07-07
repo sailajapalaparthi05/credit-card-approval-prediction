@@ -103,7 +103,7 @@ The project uses credit card applicant data containing features such as:
 
 Demo Link:
 
-(Add your Render URL here)
+https://credit-card-approval-prediction-toel.onrender.com
 
 ---
 
@@ -111,17 +111,8 @@ Demo Link:
 
 Repository:
 
-(Add your GitHub URL here)
-
+https://github.com/sailajapalaparthi05/credit-card-approval-prediction
 ---
-
-## 👨‍💻 Team Members
-
-1. Your Name
-2. Team Member Name
-
----
-
 ## 📌 Conclusion
 
 This project demonstrates how Machine Learning can be applied to automate credit card approval decisions and provide faster, data-driven predictions.

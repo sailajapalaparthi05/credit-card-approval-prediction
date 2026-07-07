@@ -48,3 +48,80 @@ The main objective of this project is to build an intelligent prediction system 
 ---
 
 ## 📂 Project Structure
+credit-card-approval-prediction
+│
+├── app.py
+├── train_model.py
+├── credit_card_model.pkl
+├── requirements.txt
+├── Procfile
+│
+├── templates
+│ └── index.html
+│
+└── static
+└── style.css
+
+---
+
+## ⚙️ How It Works
+
+1. User enters applicant details.
+2. Input data is preprocessed.
+3. Trained Machine Learning model analyzes the data.
+4. System predicts:
+   - ✅ Credit Card Approved
+   - ❌ Credit Card Rejected
+
+---
+
+## 🤖 Machine Learning Model
+
+Algorithm Used:
+
+**Random Forest Classifier**
+
+Random Forest is used because it provides good accuracy and handles both numerical and categorical data effectively.
+
+---
+
+## 📊 Dataset
+
+The project uses credit card applicant data containing features such as:
+
+- Gender
+- Income details
+- Education
+- Employment status
+- Family details
+- Credit history
+- Other applicant information
+
+---
+
+## 🌐 Live Demo
+
+Demo Link:
+
+(Add your Render URL here)
+
+---
+
+## 🔗 GitHub Repository
+
+Repository:
+
+(Add your GitHub URL here)
+
+---
+
+## 👨‍💻 Team Members
+
+1. Your Name
+2. Team Member Name
+
+---
+
+## 📌 Conclusion
+
+This project demonstrates how Machine Learning can be applied to automate credit card approval decisions and provide faster, data-driven predictions.

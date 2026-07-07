@@ -53,7 +53,7 @@ preprocessor = ColumnTransformer([
 model = Pipeline([
     ("preprocessor", preprocessor),
     ("classifier", RandomForestClassifier(
-        n_estimators=300,
+        n_estimators=100,
         random_state=42,
         class_weight="balanced"
 
